@@ -1,4 +1,4 @@
-# Lab 01 – Cryptography, Hashing, and Password Security
+# Lab  – Cryptography, Hashing, and Password Security
 
 ## Objective
 Understand password security by testing cryptography and hashing techniques in a controlled environment, and observe how SOC tools can detect weak practices.
